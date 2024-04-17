@@ -1,17 +1,17 @@
 **Django Messenger**
 Django Messenger is a simple yet powerful messaging application built using Django, HTML, and CSS. It allows users to communicate in real-time, fostering seamless interactions and collaborations. This is a project 
 
-Development:
+**Development:**
 This application was developed with the guidance of tutorials available on YouTube, providing step-by-step instructions for building a messaging platform using Django.
 https://www.youtube.com/watch?v=PtQiiknWUcI&t=121s&pp=ygUPZGphbmdvIHR1dG9yaWFs
 
 Django Messenger is a messaging application that enables users to create chat rooms and profiles. Key features include:
 
-Chat Rooms: Users can create chat rooms for group conversations, allowing multiple participants to engage in discussions.
-User Profiles: Each user can create a profile, providing personalized information and preferences.
-Messaging: Users can send and receive messages within chat rooms, facilitating real-time communication.
-Security: The application ensures user privacy and security through built-in authentication mechanisms.
-Customization: Users have the ability to customize their profiles and manage their messaging preferences.
+**Chat Rooms:** Users can create chat rooms for group conversations, allowing multiple participants to engage in discussions.
+**User Profiles:** Each user can create a profile, providing personalized information and preferences.
+**Messaging:** Users can send and receive messages within chat rooms, facilitating real-time communication.
+**Security:** The application ensures user privacy and security through built-in authentication mechanisms.
+**Customization:** Users have the ability to customize their profiles and manage their messaging preferences.
 
 
 Test this app!
