@@ -28,7 +28,8 @@ This application was developed with the guidance of tutorials available on YouTu
 - **Password:** Example123
 
 ![Screenshot](https://github.com/KomendaKacper/Komunikator---Django/assets/127196543/91811865-9224-4033-88d1-954e2952c229)
+![image](https://github.com/KomendaKacper/Komunikator---Django/assets/127196543/8c9eb2c2-2be0-490b-ad84-2f23229e7b50)
+
 
 ---
 
-This layout separates the sections clearly and provides a more organized overview of the application and its features. Let me know if you need further adjustments!
