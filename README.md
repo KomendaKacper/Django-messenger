@@ -1,4 +1,4 @@
-## Django Messenger
+# Django Messenger
 
 Django Messenger is a simple yet powerful messaging application built using Django, HTML, and CSS. It allows users to communicate in real-time, fostering seamless interactions and collaborations.
 
